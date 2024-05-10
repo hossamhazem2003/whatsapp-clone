@@ -1,6 +1,6 @@
 # whatsapp
 
-A new Flutter project.
+A simulation application for WhatsApp using flutter, Firebase, and many packages
 
 ## Getting Started
 
